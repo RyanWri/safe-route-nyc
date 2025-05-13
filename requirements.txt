@@ -1,0 +1,7 @@
+ruff
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+nbconvert
