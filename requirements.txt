@@ -1,0 +1,6 @@
+ruff
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
